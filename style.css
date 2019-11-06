@@ -54,7 +54,9 @@ body {
   }
   
   /* header */
-  
+  .m-size{
+    max-width: 210px;
+  }
   #masthead {
     position: fixed;
     z-index: 99;
